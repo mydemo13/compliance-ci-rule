@@ -41,7 +41,7 @@
           },
           {
             "id": 426,
-            "block": true,
+            "block": false,
             "minSeverity": 1
           },
           {
